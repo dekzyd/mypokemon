@@ -1,5 +1,4 @@
 import React from "react";
-import "./PokemonCard.css"
 import { Link    } from "react-router-dom";
 
 export  default function PokemonCard(props){
